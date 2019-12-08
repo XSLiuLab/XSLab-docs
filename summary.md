@@ -1,1 +1,1 @@
-- [开始使用](01-getting-started)
+- [开始使用](01-readme)
