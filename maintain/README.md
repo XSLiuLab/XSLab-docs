@@ -18,7 +18,7 @@ $ npm i -g waque
 
 > 安装要学会变通。
 
-从语雀<https://www.yuque.com/settings/tokens>中获取 token 并存储为 YUQUE_TOKEN 环境变量方便后续使用。
+从语雀 <https://www.yuque.com/settings/tokens> 中获取 token 并存储为 YUQUE_TOKEN 环境变量方便后续使用。
 
 
 ## 维护
@@ -29,10 +29,10 @@ $ npm i -g waque
 $ waque upload -t $YUQUE_TOKEN
 ```
 
-上面的命令会自动上传文档。下面命令指定上传`foo.md`和`bar.md`到语雀。
+上面的命令会自动上传文档。下面命令指定上传 `foo.md` 和 `bar.md` 到语雀。
 
 ```
 $ waque upload foo.md bar.md -t $YUQUE_TOKEN
 ```
 
-如果存在瓦雀使用问题请到官方仓库<https://github.com/yesmeck/waque>报告。
+如果存在瓦雀使用问题请到官方仓库 <https://github.com/yesmeck/waque> 报告。

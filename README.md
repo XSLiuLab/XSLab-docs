@@ -1,14 +1,16 @@
 ---
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 url: 01-readme
 public: 1
 ---
 
 # 前言
 
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![HitCount](http://hits.dwyl.io/XSLiuLab/XSLab-docs.svg)](http://hits.dwyl.io/XSLiuLab/XSLab-docs)
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+
 
 **放宽眼界，摆低姿态。认真学习，踏实研究**。
 
