@@ -1,0 +1,29 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "ShixiangWang",
+      "name": "Shixiang Wang",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/25057508?v=4",
+      "profile": "https://shixiangwang.github.io/",
+      "contributions": [
+        "code",
+        "content",
+        "doc",
+        "design",
+        "ideas",
+        "maintenance"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "XSLab-docs",
+  "projectOwner": "XSLiuLab",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}

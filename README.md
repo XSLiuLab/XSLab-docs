@@ -1,4 +1,7 @@
 ---
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 url: 01-readme
 public: 1
 ---
@@ -128,3 +131,16 @@ R:
 
 ## Contributors
 
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://shixiangwang.github.io/"><img src="https://avatars1.githubusercontent.com/u/25057508?v=4" width="100px;" alt=""/><br /><sub><b>Shixiang Wang</b></sub></a><br /><a href="https://github.com/XSLiuLab/XSLab-docs/commits?author=ShixiangWang" title="Code">💻</a> <a href="#content-ShixiangWang" title="Content">🖋</a> <a href="https://github.com/XSLiuLab/XSLab-docs/commits?author=ShixiangWang" title="Documentation">📖</a> <a href="#design-ShixiangWang" title="Design">🎨</a> <a href="#ideas-ShixiangWang" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-ShixiangWang" title="Maintenance">🚧</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
