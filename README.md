@@ -5,7 +5,7 @@ public: 1
 
 # 前言
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+[![HitCount](http://hits.dwyl.io/XSLiuLab/XSLab-docs.svg)](http://hits.dwyl.io/XSLiuLab/XSLab-docs)
 
 **放宽眼界，摆低姿态。认真学习，踏实研究**。
 
@@ -21,12 +21,6 @@ public: 1
 
 ***
 
-**目录：**
-
-* TOC
-{:toc}
-
-***
 
 ## 入门建议
 
@@ -118,37 +112,17 @@ R:
 
 ## 贡献
 
-本仓库只允许Liulab组内人员编辑与修改，其他人员可以提交issue进行报告，经过审核后报告人将加入Contributors。
+本仓库只允许 Xuesong Liu 课题组组内人员编辑与修改，其他人员可以提交 issue 或合并请求进行报告，经过审核后报告人将加入 Contributors。
 
-### 如何添加
-
-**使用Github issue**
-
-在Github issue中新建并按下列格式评论：
-
-```
-@all-contributors please add <username> for <contributions>
-```
-
-**使用命令**
-
-参考[文档](https://yarn.bootcss.com/docs/install/)安装yarn，然后添加：
-
-```
-# Add new contributor <username>, who made a contribution of type <contribution>
-yarn contributors:add add <username> <contribution>
-# Example:
-yarn contributors:add add jfmengels code,doc
-```
-
+> Please open an issue or pull request to contribute. Any suggestion is welcome.
 
 ## 许可协议
 
-* 文档： **知识共享-署名-非商业性-禁止演绎(CC-BY-NC-ND)**
-* 代码： **Apache**
+[Academic Free License version 3.0](https://opensource.org/licenses/AFL-3.0)
 
-**非Liulab成员的研究工作如果使用到该仓库的文档或代码，请在文章中引用Liulab最新发表文章或致谢，谢谢。**
+**非 Liulab 成员的研究工作如果使用到该仓库的文档或代码，请在文章中引用 Liulab 最新发表文章或致谢，谢谢。**
 
+> If you feel this repository useful for your academic project, please cite our recent publications or acknowledge us.
 
 ## Contributors
 
