@@ -3,6 +3,8 @@ url: maintain-readme
 public: 1
 ---
 
+# 维护
+
 本仓库是通过 GitHub 维护并通过[瓦雀](https://github.com/yesmeck/waque)发布到[语雀](https://www.yuque.com/shixiangwang/gucm2q)上的。
 
 在新的机器上请先配置，如果已配置好请查看维护内容。

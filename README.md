@@ -9,6 +9,8 @@ public: 1
 
 **放宽眼界，摆低姿态。认真学习，踏实研究**。
 
+在语雀阅读：<https://www.yuque.com/shixiangwang/gucm2q>
+
 ***
 
 在正式做研究之前，读一读理查德·汉明[《你和你的研究》](http://www.ruanyifeng.com/blog/2016/04/you-and-your-research.html)。

@@ -1,3 +1,3 @@
 - [开始使用](01-readme)
 - [维护](maintain-readme)
-- [添加贡献者](add-contributor)
+- [贡献者管理](add-contributor)
