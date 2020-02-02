@@ -18,14 +18,22 @@ $ npm i -g waque
 
 > 安装要学会变通。
 
-从语雀 <https://www.yuque.com/settings/tokens> 中获取 token 并存储为 YUQUE_TOKEN 环境变量方便后续使用。
+从语雀 <https://www.yuque.com/settings/tokens> 中获取 `token` 并存储为环境变量 `YUQUE_TOKEN` 方便后续使用。
+
+Linux/macOS 中 使用命令：
+
+```bash
+export YUQUE_TOKEN=<Your_Token_Here>
+```
+
+建议将上述代码放到 `~/.bashrc`（Linux）或 `~/.bash_profile`（macOS）中永久存储。
 
 
 ## 维护
 
-增加和修改内容后使用 git 进行 commit，然后上传文档。
+增加和修改内容后使用 **git** 进行 commit，然后上传文档。
 
-```
+```bash
 $ waque upload -t $YUQUE_TOKEN
 ```
 
